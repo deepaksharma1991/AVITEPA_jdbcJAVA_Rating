@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Jan 05 10:51:52 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017e-28af-ba61-0000037b98a8 
+on database directory C:\Users\hp\eclipse-workspace\AVITEPA_JdbcJAVA_Rating\studentdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+Loaded from file:/C:/Users/hp/eclipse-workspace/AVITEPA_JdbcJAVA_Rating/src/main/java/com/wirpro/libs/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=C:\Users\hp\eclipse-workspace\AVITEPA_JdbcJAVA_Rating
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 05 10:52:47 IST 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Jan 05 10:52:48 IST 2022:
+Shutting down instance a816c00e-017e-28af-ba61-0000037b98a8 on database directory C:\Users\hp\eclipse-workspace\AVITEPA_JdbcJAVA_Rating\studentdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+----------------------------------------------------------------
